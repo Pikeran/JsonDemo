@@ -1,0 +1,9 @@
+{
+  "usuario": [
+    { "id": 1, "title": "admin","password": "admin","name": "admin" },
+    { "id": 2, "title": "common","password": "common","name": "common" }
+  ],
+  "profile": {
+    "name": "pikeran"
+  }
+}
