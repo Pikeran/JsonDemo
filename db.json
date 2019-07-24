@@ -16,7 +16,7 @@
     },
     { "id": 2, 
      "title": "One Piece treasure cruise®",
-     "ul": "#",
+     "ul": "/AngularProyecto/Proyecto/src/img/fondo.png",
      "img": "#",
      "descripcion": "Juego para moviles basado en la franquicia de One piece." 
 
