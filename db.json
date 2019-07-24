@@ -5,5 +5,11 @@
   ],
   "profile": {
     "name": "pikeran"
-  }
+  },
+  "catalogo": 
+    { "id": 1, 
+     "title": "Dokkan",
+     "ul": "#",
+     "img": "#",
+     "descripcion": "Juego para moviles basado en la franquicia de dragon ball." 
 }
