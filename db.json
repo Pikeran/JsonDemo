@@ -9,14 +9,14 @@
   "catalogo": [
     { "id": 1, 
      "title": "Dragon ball Dokkan battle®",
-     "url": "src/img/fondo.png",
+     "url": "Proyecto/src/img/fondo.png",
      "img": "#",
      "descripcion": "Juego para moviles basado en la franquicia de dragon ball." 
 
     },
     { "id": 2, 
      "title": "One Piece treasure cruise®",
-     "url": "src/img/fondo.png",
+     "url": "AngularProyecto/Proyecto/src/img/fondo.png",
      "img": "#",
      "descripcion": "Juego para moviles basado en la franquicia de One piece." 
 
