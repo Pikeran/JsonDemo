@@ -6,12 +6,19 @@
   "profile": {
     "name": "pikeran"
   },
-  "catalogo": 
+  "catalogo": [
     { "id": 1, 
      "title": "Dokkan",
      "ul": "#",
      "img": "#",
      "descripcion": "Juego para moviles basado en la franquicia de dragon ball." 
 
-    }
+    },
+    { "id": 2, 
+     "title": "One Piece",
+     "ul": "#",
+     "img": "#",
+     "descripcion": "Juego para moviles basado en la franquicia de One piece." 
+
+    }]
 }
